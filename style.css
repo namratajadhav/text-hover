@@ -1,0 +1,39 @@
+body{
+  background: #d2d2d2;
+  margin: 50px;
+}
+
+
+
+.btn {
+  border: none;
+  background-color: inherit;
+  padding: 14px 28px;
+  font-size: 50px;
+  cursor: pointer;
+  display: inline-block;
+}
+.code {
+  color: rgb(83, 58, 0);
+}
+
+.code:hover {
+  background-color: #4f400c;
+  color: white;
+}
+.follow {
+  color: dodgerblue;
+}
+
+.follow:hover {
+  background: #2196F3;
+  color: white;
+}
+.me {
+  color: #b709e7;
+}
+
+.me:hover {
+  background: #4c0383;
+  color: white;
+}
